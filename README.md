@@ -1,7 +1,7 @@
 # 🧼 Sistem de Management al Spălătoriei - C++  
 
 ## 📌 Descriere  
-Acesta este un proiect realizat în **C++** pentru gestionarea operațiunilor unei spălătorii, oferind o aplicație robustă și scalabilă pentru administrarea programărilor, serviciilor și managementul timpului real al fiecărei sesiuni de spălare,punând accent pe **principiile OOP**
+Acesta este un proiect realizat în **C++** pentru gestionarea operațiunilor unei spălătorii, oferind o aplicație robustă și scalabilă pentru administrarea programărilor,punând accent pe **principiile OOP**
 
 ## 📖 Funcționalități principale  
 - **OOP și Design Patterns** – Utilizarea principiilor **Programării Orientate pe Obiect** (OOP), incluzând **design patterns** pentru a asigura un cod scalabil și ușor de întreținut.  
