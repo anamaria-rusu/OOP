@@ -1,15 +1,14 @@
-# 🧼 Sistem de Management al Spălătoriei - C++  
+# Laundry Management System - C++
 
-## 📌 Descriere  
-Acesta este un proiect realizat în **C++** pentru gestionarea operațiunilor unei spălătorii, oferind o aplicație robustă și scalabilă pentru administrarea programărilor, punând accent pe **principiile OOP**
+## Description  
+This project is developed in **C++** for managing the operations of a laundry service, providing a robust and scalable application focused on **Object-Oriented Programming (OOP) principles**.
 
-## 📖 Funcționalități principale  
-- **OOP și Design Patterns** – Utilizarea principiilor **Programării Orientate pe Obiect** (OOP), incluzând **design patterns** pentru a asigura un cod scalabil și ușor de întreținut.  
-- **Gestionarea memoriei** – Optimizarea gestionării memoriei prin alocare dinamică, garantând performanță ridicată chiar și pentru operațiuni complexe.  
-- **Manipularea timpului** – Un sistem logic avansat pentru gestionarea programărilor și a duratei serviciilor, sincronizând operațiunile aplicației cu **timpul real**.  
-- **Interfață dinamică** – Aplicația permite adăugarea, modificarea și eliminarea programărilor în timp real, cu o gestionare eficientă a resurselor.
+## Key Features  
+- **OOP and Design Patterns** – Application of **Object-Oriented Programming** principles, including **design patterns** to ensure scalable and maintainable code.  
+- **Memory Management** – Optimized memory handling through dynamic allocation, guaranteeing high performance even for complex operations.  
+- **Time Handling** – Advanced logic system for managing appointments and service durations, synchronizing application operations with **real-time**.  
+- **Dynamic Interface** – The application supports adding, modifying, and deleting appointments in real-time with efficient resource management.
 
-## 🛠️ Tehnologii și concepte utilizate  
-- **Limbaj**: C++  
-- **Principii**: Programare Orientată pe Obiect (OOP)
-
+## Technologies and Concepts Used  
+- **Language:** C++  
+- **Principles:** Object-Oriented Programming (OOP)
